@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Little Lemon Back-End Developer Capstone
 
 A Django REST Framework project for the Meta Back-End Developer Capstone. It includes HTML templates, menu CRUD endpoints, table-booking endpoints, token authentication, MySQL configuration, and automated tests.
@@ -200,4 +199,4 @@ Commit and push the README file. Submit your own repository URL in Coursera.
 - The default SQLite mode is intended for quick local setup. Switch to MySQL and verify the connection before claiming the MySQL requirement is complete.
 =======
 # Little-Lemon-Web-Application
->>>>>>> ec31abf9cb72e6d3a154c23c8032290bacbad53d
+
