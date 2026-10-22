@@ -197,6 +197,5 @@ Commit and push the README file. Submit your own repository URL in Coursera.
 - Public users can read menu items; write operations require authentication.
 - Booking data is hidden from anonymous users.
 - The default SQLite mode is intended for quick local setup. Switch to MySQL and verify the connection before claiming the MySQL requirement is complete.
-=======
-# Little-Lemon-Web-Application
+
 
