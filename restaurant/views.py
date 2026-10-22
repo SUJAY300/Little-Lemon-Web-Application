@@ -15,7 +15,7 @@ def about(request):
     return render(request, "about.html")
 
 
-class MenuItemsView(ListCreateAPIView):
+class MenuViewSet(viewsets.ModelViewSet):
     queryset = Menu.objects.all()
     serializer_class = MenuSerializer
     authentication_classes = [TokenAuthentication, SessionAuthentication]
